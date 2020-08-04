@@ -14,8 +14,8 @@ que já tenho conhecimento para ter maior aprofundamento.
 
 |Conhecimentos |||
 ------------ | ------------- | -------------
-<img alt="java" title="#java" src="imagens/java.png" width="60px"/> | <img alt="python" title="#python" src="imagens/python.png" width="60px"/> | <img alt="mysql" title="#mysql" src="imagens/mysql.png" width="60px"/> 
-<img alt="sqlserver" title="#sqlserver" src="imagens/sqlserver.png" width="60px"/> | <img alt="flask" title="#flask" src="imagens/flask.png" width="60px"/> | <img alt="spring" sty title="#spring" src="imagens/spring-logo-.svg" width="120px"/> 
+<img alt="java" title="#java" src="imagens/java.png" width="30px"/> | <img alt="python" title="#python" src="imagens/python.png" width="30px"/> | <img alt="mysql" title="#mysql" src="imagens/mysql.png" width="30px"/> 
+<img alt="sqlserver" title="#sqlserver" src="imagens/sqlserver.png" width="30px"/> | <img alt="flask" title="#flask" src="imagens/flask.png" width="30px"/> | <img alt="spring" sty title="#spring" src="imagens/spring-logo-.svg" width="60px"/> 
 
 ---
 #### 📫 How to reach me:
