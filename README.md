@@ -1,13 +1,14 @@
 ### "Olá pessoas!" \o/ 👋
-#### 🔭 I’m currently working on
+
+#### 🔭 Atualmente estou trabalhando ...
 ```
 Atualmente estou trabalhando em projetos pessoais,
-e de datico para praticar cohecimentos adiquiridos recentemente.
+e didático para praticar conhecimentos adquiridos recentemente.
 ```
 ---
-#### 🌱 I’m currently learning
+#### 🌱 Atualmente estou aprendendo ...
 ```
-Atualmente estou estudando novos metodos e usabilidades nas tecnologias 
+Atualmente estou estudando novos métodos e usabilidades nas tecnologias 
 que já tenho conhecimento para ter maior aprofundamento. 
 ```
 
@@ -20,7 +21,7 @@ que já tenho conhecimento para ter maior aprofundamento.
 #### 📫 How to reach me:
 
  :postbox:` viniciustertulianodasilva@hotmail.com`<br/>
-  :telephone:```(11)944888224```
+  :telephone:`(11)944888224`
 
   ---
 
