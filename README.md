@@ -1,4 +1,4 @@
-### "Olá pessoas!" \o/ 👋
+### "Olá pessoas!" \o/ 👋🏽 👨🏽‍💻
 
 #### 🔭 Atualmente estou trabalhando ...
 ```
@@ -14,11 +14,11 @@ que já tenho conhecimento para ter maior aprofundamento.
 
 |Conhecimentos |||
 ------------ | ------------- | -------------
-<img alt="java" title="#java" src="imagens/java.png" width="30px"/> | <img alt="python" title="#python" src="imagens/python.png" width="30px"/> | <img alt="mysql" title="#mysql" src="imagens/mysql.png" width="30px"/> 
-<img alt="sqlserver" title="#sqlserver" src="imagens/sqlserver.png" width="30px"/> | <img alt="flask" title="#flask" src="imagens/flask.png" width="30px"/> | <img alt="spring" sty title="#spring" src="imagens/spring-logo-.svg" width="60px"/> 
+![java](https://raw.githubusercontent.com/Viniciustertuliano/Viniciustertuliano/master/imagens/java2.png) | ![python](https://raw.githubusercontent.com/Viniciustertuliano/Viniciustertuliano/master/imagens/python2.png) | ![mysql](https://raw.githubusercontent.com/Viniciustertuliano/Viniciustertuliano/master/imagens/mysql2.png) 
+![sqlserver](https://raw.githubusercontent.com/Viniciustertuliano/Viniciustertuliano/master/imagens/sqlserver2.png) | ![flask](https://raw.githubusercontent.com/Viniciustertuliano/Viniciustertuliano/master/imagens/flask2.png) | ![spring](https://raw.githubusercontent.com/Viniciustertuliano/Viniciustertuliano/master/imagens/spring2.png) 
 
 ---
-#### 📫 How to reach me:
+#### 📫 Como me encontrar:
 
  :postbox:` viniciustertulianodasilva@hotmail.com`<br/>
   :telephone:`(11)944888224`
