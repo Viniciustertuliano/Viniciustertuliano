@@ -13,10 +13,10 @@
 <a href="https://www.strava.com/athletes/35368513">
   <img align="left" alt="Vinicius Strava" width="22px" src="https://camo.githubusercontent.com/f9414b773ebe67885820174a0fc889f4837abb40cd8a684140b4bd32e4e7b990/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f7374726176612e737667" />
 </a>
-
+<br/>
 <br/>
 Olá, eu sou Vinicius, Apaixonado por tecnologia e programação Full Stack Web Developer
-
+<br/>
 <img align="right" alt="GIF" src="https://github.com/viniciustertuliano/viniciustertuliano/blob/master/code.gif?raw=true" width="500" height="320" />
 
 👨🏽‍💻 Atualmente estou trabalhando em projetos pessoais e tcc.
