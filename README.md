@@ -1,3 +1,5 @@
+<img align="right" alt="GIF" src="https://github.com/Viniciustertuliano/Viniciustertuliano/blob/master/.github/gifs/jedi.gif?raw=true" width="100%" height="320" />
+
 ### Olá pessoal!
 
 <a href="https://www.linkedin.com/in/vinicius-tertuliano-da-silva-37a73515a/">
@@ -5,7 +7,7 @@
 </a>
 
 <a href="https://open.spotify.com/user/bcq0lkx3ke9kbkmyfe1u5jpcg">
-  <img align="left" alt="Vinicius Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+  <img align="left" alt="Vinicius Spotify" width="50px" src="https://github.com/Viniciustertuliano/Viniciustertuliano/blob/master/.github/imagens/Spotify-Icon-Logo.wine.svg" />
 </a>
 
 <a href="https://www.strava.com/athletes/35368513">
@@ -15,7 +17,7 @@
 <br/>
 Olá, eu sou Vinicius, Apaixonado por tecnologia e programação Web Full Stack
 <br/>
-<img align="right" alt="GIF" src="https://github.com/viniciustertuliano/viniciustertuliano/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/Viniciustertuliano/Viniciustertuliano/blob/master/.github/gifs/scene.gif?raw=true" width="500" height="320" />
 
 👨🏽‍💻 Trabalhando em projetos pessoais.
 
