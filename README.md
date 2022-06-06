@@ -47,7 +47,7 @@ Olá, eu sou Vinicius, Apaixonado por tecnologia e programação Web Full Stack
 <br/>
 
 <p align = "center">
-  <img src="https://github-readme-stats.vercel.app/api?username=viniciustertuliano&show_icons=true&theme=dracula" alt="viniciustertuliano" />
+  <img src="https://github-readme-stats.vercel.app/api?username=viniciustertuliano&show_icons=true&theme=dracula" alt="viniciustertuliano" width="50%" />
  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciustertuliano&layout=compact" alt="viniciustertuliano" />
 <p/>
