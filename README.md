@@ -7,7 +7,7 @@
 </a>
 
 <a href="https://open.spotify.com/user/bcq0lkx3ke9kbkmyfe1u5jpcg">
-  <img align="left" alt="Vinicius Spotify" width="50px" src="https://github.com/Viniciustertuliano/Viniciustertuliano/blob/master/.github/imagens/Spotify.svg" />
+  <img align="left" alt="Vinicius Spotify" width="25px" src="https://github.com/Viniciustertuliano/Viniciustertuliano/blob/master/.github/imagens/Spotify.svg" />
 </a>
 
 <a href="https://www.strava.com/athletes/35368513">
